@@ -1,0 +1,26 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Submarine</title>
+ <g>
+  <linearGradient fill="#ff0000" transform="translate(-11,10) translate(17,0) translate(4,-187) " gradientTransform="translate(12 0) translate(131 134) translate(-993.661 -48.2435)" id="svg_2" y2="0.512716" x2="1.00108" y1="0.512716" x1="0">
+   <stop fill="#ff0000" id="svg_3" stop-color="#000000" offset="0.0054"/>
+   <stop fill="#ff0000" id="svg_4" stop-color="#484848" offset="1"/>
+  </linearGradient>
+  <path id="svg_5" d="m386.637451,257.75647c33,10 66,25 85,36c19,11 33,16 35,35c2,19 -2.965942,27.333069 -20,35c-19.343994,8.707031 -66.333008,8 -119.333008,-13c-53,-21 -173.666992,-77 -178.666992,-83c-5,-6 -68,-58 -68,-58l4,-10c0,0 45,-3 61,1c16,4 152,43 152,43l49,14z" stroke-width="3" stroke="#ff0000" fill="#ff0000"/>
+  <linearGradient fill="#ff0000" transform="translate(-11,10) translate(17,0) translate(4,-187) " gradientTransform="translate(12 0) translate(131 134) translate(-993.661 -48.2435)" id="svg_6" y2="0.5" x2="1.005097" y1="0.5" x1="0.000006">
+   <stop fill="#ff0000" id="svg_7" stop-color="#000000" offset="0.0054"/>
+   <stop fill="#ff0000" id="svg_8" stop-color="#484848" offset="1"/>
+  </linearGradient>
+  <path id="svg_9" d="m315.234497,204.389496l-4.131958,52.233002c0,0 33.246948,14.86499 55.647949,15.436005c22.402954,0.569977 25.322021,-4.028046 25.322021,-4.028046c0,0 9.494019,-42.749969 6.906982,-51.227997c-2.584961,-8.476959 -54.248047,-15.399994 -61.225952,-16.51297c-6.975098,-1.111023 -22.519043,4.100006 -22.519043,4.100006z" stroke-width="3" stroke="#ff0000" fill="#ff0000"/>
+  <path id="svg_10" d="m124.637512,204.75647c-28,9 -27,16 -27,16l55,-1l-28,-15z" stroke-width="3" stroke="#ff0000" fill="#ff0000"/>
+  <linearGradient fill="#ff0000" transform="translate(-11,10) translate(17,0) translate(4,-187) " gradientTransform="translate(12 0) translate(131 134) translate(-993.661 -48.2435)" id="svg_11" y2="0.500001" x2="1.000004" y1="0.500001" x1="-0.000002">
+   <stop fill="#ff0000" id="svg_12" stop-color="#000000" offset="0.0054"/>
+   <stop fill="#ff0000" id="svg_13" stop-color="#484848" offset="1"/>
+  </linearGradient>
+  <path id="svg_14" d="m399.255493,213.75647c2,4 -4.70105,13.333038 -19.70105,9.333038c-15,-4 -61.666992,-19.333038 -61.666992,-19.333038l20.118042,-6.46698c0,0 59.25,12.46698 61.25,16.46698z" stroke-width="3" stroke="#ff0000" fill="#ff0000"/>
+  <polygon id="svg_15" points="152.63800048828125,195.75601196289062 138.63800048828125,152.75601196289062 124.63800048828125,148.75601196289062 124.63800048828125,199.75601196289062 161.63800048828125,203.75601196289062 " stroke-width="3" stroke="#ff0000" fill="#ff0000"/>
+  <polygon id="svg_16" points="141.63800048828125,227.75601196289062 134.63800048828125,221.75601196289062 125.63800048828125,221.75601196289062 122.63800048828125,240.75601196289062 131.63800048828125,244.75601196289062 " stroke-width="3" stroke="#ff0000" fill="#ff0000"/>
+  <polygon id="svg_17" points="358.6369934082031,212.75601196289062 358.7170104980469,209.72000122070312 360.6369934082031,135.75601196289062 354.6369934082031,133.75601196289062 349.6369934082031,208.75601196289062 " stroke-width="3" stroke="#ff0000" fill="#ff0000"/>
+  <title>Layer 1</title>
+ </g>
+</svg>
