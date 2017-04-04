@@ -36,10 +36,6 @@ table {
     table td img {
       width: 90%; }
 
-sidebar {
-  max-width: 100px;
-  width: 15%; }
-
 .buttons {
   text-align: center; }
   .buttons .btn {
