@@ -1,3 +1,9 @@
+function resetTable(){
+  var $table = $('table')
+  $table.find('td,th').removeAttr('style')
+  $table.find('.submarine').remove()
+}
+
 function placeRedOctober(){
   placeSubmarine('<div class="red-october submarine"><img src="img/red-submarine.svg"></div>')
 }
@@ -92,4 +98,5 @@ $(document).ready(function(){
   $('#btn-place-yellow-submarine').on('click', placeYellowSubmarine)
   $('#btn-find-yellow-submarine').on('click', findYellowSubmarine)
   $('#btn-find-all-submarines').on('click', findAllSubmarines)
+  $('#btn-reset-board').on('click', resetTable)
 })

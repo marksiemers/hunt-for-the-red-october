@@ -73,5 +73,11 @@ sidebar {
   .buttons .btn-green {
     background-color: green;
     color: white; }
+  .buttons .btn-blue:hover {
+    background-color: #0960a5;
+    border-color: #0960a5; }
+  .buttons .btn-blue {
+    background-color: #0c7cd5;
+    color: white; }
 
 /*# sourceMappingURL=style.css.map */
