@@ -1,0 +1,19 @@
+@mixin button
+  border: solid transparent
+  color: white
+  padding: 16px 32px
+  text-align: center
+  text-decoration: none
+  display: inline-block
+  font-size: 16px
+  margin: 4px 2px
+  -webkit-transition-duration: 0.2s
+  transition-duration: 0.2s
+  cursor: pointer
+
+@mixin button-color($color)
+  background-color: $color
+  color: if(lightness($color) >= 50%, black, white)
+  &:hover
+    background-color: darken($color, 10%)
+    border-color: darken($color, 10%)

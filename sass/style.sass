@@ -1,4 +1,5 @@
 @import ../neat/neat
+@import mixins
 
 $sidebar-layout: (columns: 4, gutter: 10px)
 
@@ -37,39 +38,13 @@ table
 .buttons
   text-align: center
   .btn
-    border: solid transparent
-    color: white
-    padding: 16px 32px
-    text-align: center
-    text-decoration: none
-    display: inline-block
-    font-size: 16px
-    margin: 4px 2px
-    -webkit-transition-duration: 0.2s
-    transition-duration: 0.2s
-    cursor: pointer
+    @include button
     width: 100%
-  .btn-red:hover
-    background-color: darken(red, 10%)
-    border-color: darken(red, 10%)
-  .btn-red
-    background-color: red
-    color: white
-  .btn-yellow:hover
-    background-color: darken(yellow, 10%)
-    border-color: darken(yellow, 10%)
-  .btn-yellow
-    background-color: yellow
-    color: black
-  .btn-green:hover
-    background-color: darken(green, 10%)
-    border-color: darken(green, 10%)
-  .btn-green
-    background-color: green
-    color: white
-  .btn-blue:hover
-    background-color: darken(#0c7cd5, 10%)
-    border-color: darken(#0c7cd5, 10%)
   .btn-blue
-    background-color: #0c7cd5
-    color: white
+    @include button-color(#0c7cd5)
+  .btn-green
+    @include button-color(green)
+  .btn-red
+    @include button-color(darken(red,0.1%))
+  .btn-yellow
+    @include button-color(yellow)

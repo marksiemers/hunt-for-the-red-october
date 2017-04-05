@@ -51,29 +51,29 @@ table {
     transition-duration: 0.2s;
     cursor: pointer;
     width: 100%; }
-  .buttons .btn-red:hover {
-    background-color: #cc0000;
-    border-color: #cc0000; }
-  .buttons .btn-red {
-    background-color: red;
-    color: white; }
-  .buttons .btn-yellow:hover {
-    background-color: #cccc00;
-    border-color: #cccc00; }
-  .buttons .btn-yellow {
-    background-color: yellow;
-    color: black; }
-  .buttons .btn-green:hover {
-    background-color: #004d00;
-    border-color: #004d00; }
-  .buttons .btn-green {
-    background-color: green;
-    color: white; }
-  .buttons .btn-blue:hover {
-    background-color: #0960a5;
-    border-color: #0960a5; }
   .buttons .btn-blue {
     background-color: #0c7cd5;
     color: white; }
+    .buttons .btn-blue:hover {
+      background-color: #0960a5;
+      border-color: #0960a5; }
+  .buttons .btn-green {
+    background-color: green;
+    color: white; }
+    .buttons .btn-green:hover {
+      background-color: #004d00;
+      border-color: #004d00; }
+  .buttons .btn-red {
+    background-color: #fe0000;
+    color: white; }
+    .buttons .btn-red:hover {
+      background-color: #cb0000;
+      border-color: #cb0000; }
+  .buttons .btn-yellow {
+    background-color: yellow;
+    color: black; }
+    .buttons .btn-yellow:hover {
+      background-color: #cccc00;
+      border-color: #cccc00; }
 
 /*# sourceMappingURL=style.css.map */
