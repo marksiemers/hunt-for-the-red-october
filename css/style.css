@@ -26,14 +26,15 @@ table {
   table td {
     border: solid white 1px;
     background: #0c7cd5;
-    background-size: 85px;
-    width: 9.5%;
-    height: 9%; }
+    background-size: 129px;
+    width: 19.5%;
+    height: 19.5%; }
     table td:first-child {
       background: none;
       font-weight: bold;
       width: 2.5%; }
     table td img {
+      height: 90%;
       width: 90%; }
 
 .buttons {
@@ -41,11 +42,11 @@ table {
   .buttons .btn {
     border: solid transparent;
     color: white;
-    padding: 16px 32px;
+    padding: 16px 16px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 24px;
     margin: 4px 2px;
     -webkit-transition-duration: 0.2s;
     transition-duration: 0.2s;
