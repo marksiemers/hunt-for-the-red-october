@@ -87,9 +87,7 @@ function findSubmarines(cssSelector = '.submarine'){
   // After traversing to get the correct elements, change the style on the DOM
   toggleInverseSubmarineImage($submarine,$submarineImg,$submarineCell)
   styleSubmarineRow($row,$submarineCell,$siblings)
-  var $column = getSubmarineColumn($submarine)
-  styleSubmarineColumn($column,$submarineCell)
-
+  styleSubmarineColumn(getSubmarineColumn($submarine),$submarineCell)
 }
 
 $(document).ready(function(){
