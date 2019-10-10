@@ -43,3 +43,5 @@ function findSubmarines(cssSelector = '.submarine'){
 ```
 ## Contributing
 It would be cool to have some javascript show up in the bottom left corner when a button is clicked - to show what is happening in real time. If anyone wants to implement that, I welcome pull requests.
+
+Also a non-jQuery implementation would be interesting to have, to compare how the code looks with vanilla JS.
